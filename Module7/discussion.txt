@@ -1,0 +1,14 @@
+Python:
+
+variable = input("What user input would you like to enter? ")
+// outputs text in quotations and accepts a response
+
+Bash:
+
+read -p 'What would you like to say to me? ' variable
+// prompts for input (-p) and assigns input to variable (read)
+
+PowerShell:
+
+variable = Read-Host "Give me your information: " 
+// outputs text in quotations and accepts a response
